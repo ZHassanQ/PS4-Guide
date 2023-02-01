@@ -11,7 +11,7 @@ GoldHEN Sections: [Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)
 - [Creating Activated PSN Account & Installing Encrypted Savedata](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/5.-Creating-Activated-PSN-Account-&-Installing-Encrypted-Savedata)
 
 
-# Donwloads & Forums
+# Downloads & Forums
 
 In this guide any file mentioned will be listed in (Releases).
 
