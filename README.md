@@ -11,15 +11,14 @@ GoldHEN Sections: [Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)
 - [Creating Activated PSN Account & Installing Encrypted Savedata](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/5.-Creating-Activated-PSN-Account-&-Installing-Encrypted-Savedata)
 
 
-# Downloads & Forums
-
-In this guide any file mentioned will be listed in (Releases).
+## GoldHEN & Exploit
 
 - [GoldHEN](https://github.com/GoldHEN/GoldHEN)
 - [GoldHEN KAR0218 Host](http://karo218.ir/) - [Kameleon Host](http://kmeps4.site/)
 - [PS4 9.00 Kernel Exploit (exfathax.img)](https://github.com/ChendoChap/pOOBs4)
 
----
+
+## Apps (PS4)
 
 - [Apollo Save Tool](https://github.com/bucanero/apollo-ps4)
 - [GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)
@@ -35,7 +34,8 @@ In this guide any file mentioned will be listed in (Releases).
 - [YouTube TV](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
 - [YouTube (9.00ver)](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
 
----
+
+## Apps (Computer)
 
 - [AT9 - AT3 Converter](https://www.psx-place.com/threads/at9-at3-converter-by-benmitnick-updated-to-v2-3.14356/)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
