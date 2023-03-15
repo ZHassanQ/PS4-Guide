@@ -23,7 +23,6 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 - **[Apollo Save Tool](https://github.com/bucanero/apollo-ps4)** An application to manage save-game files on the PlayStation 4.
 - **[GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)** An open-source PlayStation 4 cheat code manager for GoldHEN.
 - **[Icon Mask](https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/)** A Homebrew application to change the appearance of PS4 icons with a single click.
-https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/
 - **[Itemzflow](https://github.com/LightningMods/Itemzflow)** A PS4 Game manager and Home menu.
 - **[Netflix](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A Netflix app with no PSN version.
 - **[PS4 FTP Client](https://github.com/cy33hc/ps4-ftp-client)** Simple FTP client for the PS4.
