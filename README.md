@@ -13,34 +13,34 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 
 # GoldHEN & Exploit
 
-- **[GoldHEN](https://github.com/GoldHEN/GoldHEN)
-- **[GoldHEN KAR0218 Host](http://karo218.ir/) - [Kameleon Host](http://kmeps4.site/)
-- **[PS4 9.00 Kernel Exploit (exfathax.img)](https://github.com/ChendoChap/pOOBs4)
+- **[GoldHEN](https://github.com/GoldHEN/GoldHEN)**
+- **[GoldHEN KAR0218 Host](http://karo218.ir/) - [Kameleon Host](http://kmeps4.site/)**
+- **[PS4 9.00 Kernel Exploit (exfathax.img)](https://github.com/ChendoChap/pOOBs4)**
 
 
 ## Apps (PS4)
 
-- **[Apollo Save Tool](https://github.com/bucanero/apollo-ps4)
-- **[GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)
-- **[Icon Mask](https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/)
-- **[Itemzflow](https://github.com/LightningMods/Itemzflow)
-- **[Netflix](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
-- **[PS4 FTP Client](https://github.com/cy33hc/ps4-ftp-client)
-- **[PS4 Media Player](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
-- **[PS4 Patch Installer](https://orbispatches.com/homebrew)
-- **[PS4-Xplorer 2.0](https://www.psxhax.com/threads/ps4-xplorer-v2-01-file-manager-by-lapy05575948-ps4-player-preview-video.6718/)
-- **[Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)
-- **[Store-R2](https://pkg-zone.com)
-- **[YouTube TV](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
-- **[YouTube (9.00ver)](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)
+- **[Apollo Save Tool](https://github.com/bucanero/apollo-ps4)**
+- **[GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)**
+- **[Icon Mask](https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/)**
+- **[Itemzflow](https://github.com/LightningMods/Itemzflow)**
+- **[Netflix](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
+- **[PS4 FTP Client](https://github.com/cy33hc/ps4-ftp-client)**
+- **[PS4 Media Player](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
+- **[PS4 Patch Installer](https://orbispatches.com/homebrew)**
+- **[PS4-Xplorer 2.0](https://www.psxhax.com/threads/ps4-xplorer-v2-01-file-manager-by-lapy05575948-ps4-player-preview-video.6718/)**
+- **[Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)**
+- **[Store-R2](https://pkg-zone.com)**
+- **[YouTube TV](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
+- **[YouTube (9.00ver)](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
 
 
 ## Apps (Computer)
 
-- **[AT9 - AT3 Converter](https://www.psx-place.com/threads/at9-at3-converter-by-benmitnick-updated-to-v2-3.14356/)
-- **[DB Browser for SQLite](https://sqlitebrowser.org/)
-- **[Duxa's PS4 Patch Repackager 7.2.18](https://www.psxhax.com/threads/ps4-pkg-repackager-to-repackage-fake-updates-by-duxa-chrushev.5037/)
-- **[FileZilla](https://filezilla-project.org/)
+- **[AT9 - AT3 Converter](https://www.psx-place.com/threads/at9-at3-converter-by-benmitnick-updated-to-v2-3.14356/)**
+- **[DB Browser for SQLite](https://sqlitebrowser.org/)**
+- **[Duxa's PS4 Patch Repackager 7.2.18](https://www.psxhax.com/threads/ps4-pkg-repackager-to-repackage-fake-updates-by-duxa-chrushev.5037/)**
+- **[FileZilla](https://filezilla-project.org/)**
 - **[PS4 Offline Account Activator](https://www.psxhax.com/threads/ps4offlineaccountactivator-ps4-offline-account-activator-gui-by-charlyzard-**barthen.7347/)**
 - **[PS4 Save Mounter](https://github.com/ChendoChap/Playstation-4-Save-Mounter)**
 - **[PS4-AIO](https://www.psxhax.com/threads/ps4-aio-batch-file-script-for-games-updates-with-fpkg-tools-by-jation.12537/)**
