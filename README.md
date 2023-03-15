@@ -38,6 +38,7 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 ## Apps (Computer)
 
 - **[AT9 - AT3 Converter](https://www.psx-place.com/threads/at9-at3-converter-by-benmitnick-updated-to-v2-3.14356/)**
+- **[BalenaEtcher](https://www.balena.io/etcher)**
 - **[DB Browser for SQLite](https://sqlitebrowser.org/)**
 - **[Duxa's PS4 Patch Repackager 7.2.18](https://www.psxhax.com/threads/ps4-pkg-repackager-to-repackage-fake-updates-by-duxa-chrushev.5037/)**
 - **[FileZilla](https://filezilla-project.org/)**
@@ -73,9 +74,10 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 ---
 
 - AT9 - AT3 Converter **[BenMitnicK](https://github.com/BenMitnicK)**
-- FileZilla **[FileZillaPro](https://filezillapro.com/)**
+- BalenaEtcher **[Website](https://www.balena.io/)**
 - DB Browser for SQLite **[sqlitebrowser](https://github.com/sqlitebrowser/)** - **[Patreon](https://www.patreon.com/db4s)**
 - Duxa's PS4 Patch Repackager 7.2.18 **[Chrushev](https://www.psxhax.com/members/357134/)**
+- FileZilla **[FileZillaPro](https://filezillapro.com/)**
 - PS4 Offline Account Activator **[charlyzard](https://github.com/charlyzard)**
 - PS4 Save Mounter **[ChendoChap](https://github.com/ChendoChap/)**
 - PS4-AIO **[jation](https://www.psxhax.com/members/508878/)**
