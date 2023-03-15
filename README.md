@@ -59,8 +59,8 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 
 - Apollo Save Tool  **[bucanero](https://github.com/bucanero/apollo-ps4)** - **[PayPal](https://www.paypal.me/bucanerodev)**
 - GoldHEN Cheat Manager **[GoldHEN](https://github.com/GoldHEN/)** - **[Patreon](https://patreon.com/dparrino)** - **[PayPal](https://www.paypal.me/bucanerodev)**
-- Icon Mask **[Lapy](https://github.com/Lapy055) - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
-- Itemzflow **[LightiningMods](https://github.com/LightningMods/) - **[Ko-fi](https://ko-fi.com/lightningmods)**
+- Icon Mask **[Lapy](https://github.com/Lapy055)** - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
+- Itemzflow **[LightiningMods](https://github.com/LightningMods/)** - **[Ko-fi](https://ko-fi.com/lightningmods)**
 - Netflix **[HK31](https://www.psxhax.com/members/hk31.484616/)**
 - PS4 FTP Client **[cy33hc](https://github.com/cy33hc)** - **[PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)**
 - PS4 Media Player **[HK31](https://www.psxhax.com/members/hk31.484616/)**
