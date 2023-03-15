@@ -20,19 +20,20 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 
 ## Apps (PS4)
 
-- **[Apollo Save Tool](https://github.com/bucanero/apollo-ps4)**
-- **[GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)**
-- **[Icon Mask](https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/)**
-- **[Itemzflow](https://github.com/LightningMods/Itemzflow)**
-- **[Netflix](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
-- **[PS4 FTP Client](https://github.com/cy33hc/ps4-ftp-client)**
-- **[PS4 Media Player](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
-- **[PS4 Patch Installer](https://orbispatches.com/homebrew)**
-- **[PS4-Xplorer 2.0](https://www.psxhax.com/threads/ps4-xplorer-v2-01-file-manager-by-lapy05575948-ps4-player-preview-video.6718/)**
-- **[Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)**
-- **[Store-R2](https://pkg-zone.com)**
-- **[YouTube TV](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
-- **[YouTube (9.00ver)](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)**
+- **[Apollo Save Tool](https://github.com/bucanero/apollo-ps4)** An application to manage save-game files on the PlayStation 4.
+- **[GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)** An open-source PlayStation 4 cheat code manager for GoldHEN.
+- **[Icon Mask](https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/)** A Homebrew application to change the appearance of PS4 icons with a single click.
+https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/
+- **[Itemzflow](https://github.com/LightningMods/Itemzflow)** A PS4 Game manager and Home menu.
+- **[Netflix](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A Netflix app with no PSN version.
+- **[PS4 FTP Client](https://github.com/cy33hc/ps4-ftp-client)** Simple FTP client for the PS4.
+- **[PS4 Media Player](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A Media Player app with no PSN version.
+- **[PS4 Patch Installer](https://orbispatches.com/homebrew)** An app to check and download every PS4 game update you have installed.
+- **[PS4-Xplorer 2.0](https://www.psxhax.com/threads/ps4-xplorer-v2-01-file-manager-by-lapy05575948-ps4-player-preview-video.6718/)** A simple PS4 file explorer.
+- **[Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)** Bin Loader PKG for the PlayStation 4.
+- **[Store-R2](https://pkg-zone.com)** A Homebrew Store where you can download homebrew apps.
+- **[YouTube TV](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A YouTube TV app with no PSN version.
+- **[YouTube (9.00ver)](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A YouTube app with no PSN version.
 
 
 ## Apps (Computer)
