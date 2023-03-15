@@ -41,11 +41,11 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 - **[DB Browser for SQLite](https://sqlitebrowser.org/)
 - **[Duxa's PS4 Patch Repackager 7.2.18](https://www.psxhax.com/threads/ps4-pkg-repackager-to-repackage-fake-updates-by-duxa-chrushev.5037/)
 - **[FileZilla](https://filezilla-project.org/)
-- **[PS4 Offline Account Activator](https://www.psxhax.com/threads/ps4offlineaccountactivator-ps4-offline-account-activator-gui-by-charlyzard-barthen.7347/)
-- **[PS4 Save Mounter](https://github.com/ChendoChap/Playstation-4-Save-Mounter)
-- **[PS4-AIO](https://www.psxhax.com/threads/ps4-aio-batch-file-script-for-games-updates-with-fpkg-tools-by-jation.12537/)
-- **[PS4PKGViewer](https://sites.google.com/site/theleecherman/ps4pkgviewer)
-- **[Rufus](https://rufus.ie/en/)
+- **[PS4 Offline Account Activator](https://www.psxhax.com/threads/ps4offlineaccountactivator-ps4-offline-account-activator-gui-by-charlyzard-**barthen.7347/)**
+- **[PS4 Save Mounter](https://github.com/ChendoChap/Playstation-4-Save-Mounter)**
+- **[PS4-AIO](https://www.psxhax.com/threads/ps4-aio-batch-file-script-for-games-updates-with-fpkg-tools-by-jation.12537/)**
+- **[PS4PKGViewer](https://sites.google.com/site/theleecherman/ps4pkgviewer)**
+- **[Rufus](https://rufus.ie/en/)**
 
 
 # Credits & Donations
@@ -61,7 +61,7 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 - Icon Mask **[Lapy](https://github.com/Lapy055) - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
 - Itemzflow **[LightiningMods](https://github.com/LightningMods/) - [**Ko-fi](https://ko-fi.com/lightningmods)**
 - Netflix **[HK31](https://www.psxhax.com/members/hk31.484616/)**
-- PS4 FTP Client **[cy33hc](https://github.com/cy33hc) - **[PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)**
+- PS4 FTP Client **[cy33hc](https://github.com/cy33hc)** - **[PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)**
 - PS4 Media Player **[HK31](https://www.psxhax.com/members/hk31.484616/)**
 - PS4-Xplorer 2.0 **[Lapy](https://github.com/Lapy055) - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
 - PS4 Patch Installer **[0x199](https://twitter.com/0x199)**
