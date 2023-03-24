@@ -64,7 +64,7 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 - Netflix **[HK31](https://www.psxhax.com/members/hk31.484616/)**
 - PS4 FTP Client **[cy33hc](https://github.com/cy33hc)** - **[PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)**
 - PS4 Media Player **[HK31](https://www.psxhax.com/members/hk31.484616/)**
-- PS4-Xplorer 2.0 **[Lapy](https://github.com/Lapy055) - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
+- PS4-Xplorer 2.0 **[Lapy](https://github.com/Lapy055)** - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
 - PS4 Patch Installer **[0x199](https://twitter.com/0x199)**
 - Payload Guest **[Al-Azif](https://github.com/Al-Azif/)**
 - Store-R2 **[LightiningMods](https://github.com/LightningMods/)** - **[Ko-fi](https://ko-fi.com/lightningmods)**
