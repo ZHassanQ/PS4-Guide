@@ -67,7 +67,7 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 - PS4-Xplorer 2.0 **[Lapy](https://github.com/Lapy055) - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
 - PS4 Patch Installer **[0x199](https://twitter.com/0x199)**
 - Payload Guest **[Al-Azif](https://github.com/Al-Azif/)**
-- Store-R2 **[LightiningMods](https://github.com/LightningMods/) - **[Ko-fi](https://ko-fi.com/lightningmods)**
+- Store-R2 **[LightiningMods](https://github.com/LightningMods/)** - **[Ko-fi](https://ko-fi.com/lightningmods)**
 - YouTube TV **[HK31](https://www.psxhax.com/members/hk31.484616/)**
 - YouTube (9.00ver) **[HK31](https://www.psxhax.com/members/hk31.484616/)**
 
