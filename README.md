@@ -11,7 +11,7 @@ GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
 - **[Creating Activated PSN Account & Installing Encrypted Savedata](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/5.-Creating-Activated-PSN-Account-&-Installing-Encrypted-Savedata)**
 
 
-# GoldHEN & Exploit
+## GoldHEN & Exploit
 
 - **[GoldHEN](https://github.com/GoldHEN/GoldHEN)**
 - **[GoldHEN KAR0218 Host](http://karo218.ir/) - [Kameleon Host](http://kmeps4.site/)**
