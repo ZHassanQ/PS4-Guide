@@ -1,4 +1,4 @@
-In this file "PKG-Installation" there's a tutorial on how to install PKG files wether they were Game, Game Update, Game's DLC, Themes, Hombrew apps.
+In this file **"PKG-Installation"** there's a tutorial on how to install PKG files wether they were Game, Game Update, Game's DLC, Themes, Hombrew apps.
 
 🧭 Table of Contents
 1. 🧪 Integrity Check:
