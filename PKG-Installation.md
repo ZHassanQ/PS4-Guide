@@ -1,21 +1,21 @@
 In this file "PKG-Installation" there's a tutorial on how to install PKG files wether they were Game, Game Update, Game's DLC, Themes, Hombrew apps.
 
-Table of Contents
+🧭 Table of Contents
 1. 🧪 Integrity Check:
-    - **[Compatiblity to System]()**
-    - **[Compatiblity to BASE]()**
+    - **[Compatiblity to System](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#compatibility-to-system)**
+    - **[Compatiblity to BASE](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#compatiblity-to-base)**
 2. ⚙️ Installation
-    - **[Flash Drive]()**
-    - **[Internal Storage]()**
-    - **[Internet Connection]()**
+    - **[Flash Drive](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#flash-drive)**
+    - **[Internal Storage](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#internal-storage)**
+    - **[Internet Connection](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#internet-connection)**
 3. 🧰 Installation Errors
-    - **[Error #1]()**
-    - **[Error #2]()**
+    - **[Error #1](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#error-1)**
+    - **[Error #2](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#error-2)**
 4. 🔎 Others
-    - **[Fix Game's Info]()**
+    - **[Fix Game Info](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#fix-game-info)**
 
 
-# Integrity Check
+# 🧪 Integrity Check
 
 Before installing any PKG file on your PlayStation 4 first open it with **"PS4PKGViewer"** to see if it's matches with your PlayStation 4 System, BASE, Update, and DLC.
 
@@ -50,7 +50,7 @@ If you will install an update or DLC for your Game BASE then you need to check a
 - If it's higher or lower than your Game's Version you can't install it. 
 
 
-# PKG Installation
+# ⚙️ Installation
 
 Now that you checked the integrity and if the PKG file info matched with your System Version, and/or Update, and/or DLC.
 
@@ -95,7 +95,7 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 ## Internet Connection
 
 
-# Installation Errors
+# 🧰 Installation Errors
 
 This section may help you if you can't install PKG files on your PlayStation 4 due to errors.
 
@@ -105,31 +105,33 @@ This error will be likely because the BASE game only had offline mode then updat
 
 **In your Computer:**
 
-1. Launch "Duxas PS4 patch repackager.exe"**
-2. Select "Force Scenario 0"**
-3. Put your `Update.pkg/file/location` in **"Patch:"**
-4. Put your `Base.pkg/file/location` in **"Game:"**
+1. Launch **"Duxa's PS4 patch repackager"**
+2. Put your `Update.pkg/file/location` in **"Patch:"**
+3. Put your `Base.pkg/file/location` in **"Game:"**
+4. Select **"Force Scenario 0"**
 5. Click **"GO"** (It will Approximately take 20 Minutes)
 
 ## Error #2 
 
 This error may pop-up because you downloaded from two different sources.
 
-1. Launch **"DUXA-Repackager-7.18.2.exe"**
+**In your Computer:**
+
+1. Launch **"Duxa's PS4 Patch Repackager"**
 2. Put your `Update.pkg/file/location` in **"Patch:"**
 3. Put your `Base.pkg/file/location` in **"Game:"**
 4. Uncheck everything down.
 5. Click **"GO"** (It will Approximately take 20 Minutes) 
 
 
-# Others
-##  Fix Game Info (Merged Games)
+# 🔎 Others
+##  Fix Game Info
 
 If you install a merged PKG (BASE+Update) on your PlayStation 4, then it will reads it as a 1.00 version and to fix it:
 
 **In your Computer:**
 
-1. Extract **"PS4-AIO"**
-2. Put **"game.pkg"** in GAME folder.
-3. And you will get small PKG update **"Dummy_Update.pkg"** around 5-10MB.
-4. After that install the **"Dummy_Update.pkg"** on PS4
+1. Launch **"PS4-AIO"** app.
+2. Put **"MERGED.pkg"** in `GAME` folder.
+3. And you will get small PKG update **"Dummy_Update.pkg"** around 5-10MB in `PS4-AIO` folder.
+4. Install it.
