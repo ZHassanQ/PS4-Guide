@@ -1,56 +1,59 @@
-In this section you will install your own (Apps, Games, Updates, & Themes) which they are all in ".pkg" format file.
+In this file "PKG-Installation" there's a tutorial on how to install PKG files wether they were Game, Game Update, Game's DLC, Themes, Hombrew apps.
 
-- **PS4PKGViewer** [Windows](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/releases/download/Computer/PS4PKGViewer.v1.5-LMAN.zip)
-- **PS4 Apps** [5.05](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/releases/tag/5.05) - [9.00](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/releases/tag/9.00)
-- **PS4-AIO** [Windows](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/releases/download/Computer/PS4-AiO.v27.zip)
-- **Duxas PS4 patch repackager** [Windows](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/releases/download/Computer/Duxas.PS4.patch.repackager.7.2.18.zip)
+Table of Contents
+1. 🧪 Integrity Check:
+    - **[Compatiblity to System]()**
+    - **[Compatiblity to BASE]()**
+2. ⚙️ Installation
+    - **[Flash Drive]()**
+    - **[Internet Connection]()**
+3. 🧰 Installation Errors
+    - **[Error #1]()**
+    - **[Error #2]()**
+4. 🔎 Others
+    - **[Fix Game's Info]()**
 
 
 # Integrity Check
 
-Before installing any PKG file on your PlayStation 4 first open it with **"PS4PKGViewer"** to see if it's matches with your BASE, Update, and DLC info.
+Before installing any PKG file on your PlayStation 4 first open it with **"PS4PKGViewer"** to see if it's matches with your PlayStation 4 System, BASE, Update, and DLC.
 
-## PKG files Compatibility
+## Compatibility to System
 
 **In your Computer:**
 
-1. Open your **"pkg"** file with **"PS4PKGViewer"**
+1. Open your PKG file with **"PS4PKGViewer"**
+2. See **""**
+- If it's lower or the same as your System Version you can install it.
+- If it's higher than your System Version you can't install it. (See **""**)
+
+
+## Compatiblity to BASE
+
+If you will install an update or DLC for your Game BASE then you need to check a few things to see if it will be installed to the BASE game.
+
+### Title ID
+
+**In your Computer:**
+
+1. Open your PKG file with **"PS4PKGViewer"**
 2. See the **"Title_id"** if they match. `CUSA10101` - `CUSA10101`
-3. See the **"system"** if it is higher or lower than your firmware.
-4. See if it is **"FAKE"** or it will require license to launch the pkg in your PS4.
-- Meaning that you will need to put in your account that you bought the game with.
-- Make sure if you will install an Update ,Dlc that they match Regions & Title_id.
+3. See if it is **"FAKE"** or it will require license to launch the pkg in your PS4.
+- If it's not **"FAKE"** you will need to put in your account that you bought the game with.
 
+### DLC Required Version
 
-## Update Combatibility
-
-**In your PS4:**
-
-1. Launch **"Patch Installer"**
-2. Select your game
-3. See the update **"Version"** you want
-
-- If it is **"Green"** that means it **can** be Installed on your PS4 -Playable-
-- If it is **"Red"** that means it **can't** be Installed on your PS4 -Unplayable-
-
----
-
-If you have already an installed update that requires higher firmware version than yours:
-
-**In your PS4:**
-
-1. Launch **"Homebrew Store"**
-2. Go To **"Installed Apps"**
-3. Select The Game That Already Have An Installed Update
-4. Press **"X"** On **"Remove Update"**
+1. Open your DLC PKG file with **"PS4PKGViewer"**
+2. See **""**
+- If it's the same as your Game's Version you can install it.
+- If it's higher or lower than your Game's Version you can't install it. 
 
 
 # PKG Installation
 
-Now that you checked the integrity and if the PKG BASE file info matched with your Update and DLC's.
+Now that you checked the integrity and if the PKG file info matched with your System Version, and/or Update, and/or DLC.
 
-
-## Installing ".pkg's" files
+## USB Flash Drive
 
 **In your Computer:**
 
@@ -59,11 +62,15 @@ Now that you checked the integrity and if the PKG BASE file info matched with yo
 
 ---
 
-**In your PS4:**
+**In your PlayStation 4:**
 
 3. Connect your USB Flash Drive to your PS4.
-4. Go to `Settings/Debug Settings/Package Installer/"Install all"` ,Choose **".pkg"**
+4. Go to "Settings" --> "Debug Settings" --> "Package Installer"
+5. Select your PKG file.
+- If you have many PKG files, then install BASE then, Update, then DLC's.
 
+
+## Internet Connection
 
 ##  Fix Game Info (Merged Games)
 
