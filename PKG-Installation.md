@@ -11,8 +11,6 @@ In this file "PKG-Installation" there's a tutorial on how to install PKG files w
 3. 🧰 Installation Errors
     - **[Error #1](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#error-1)**
     - **[Error #2](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#error-2)**
-4. 🔎 Others
-    - **[Fix Game Info](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#fix-game-info)**
 
 
 # 🧪 Integrity Check
@@ -122,16 +120,3 @@ This error may pop-up because you downloaded from two different sources.
 3. Put your `Base.pkg/file/location` in **"Game:"**
 4. Uncheck everything down.
 5. Click **"GO"** (It will Approximately take 20 Minutes) 
-
-
-# 🔎 Others
-##  Fix Game Info
-
-If you install a merged PKG (BASE+Update) on your PlayStation 4, then it will reads it as a 1.00 version and to fix it:
-
-**In your Computer:**
-
-1. Launch **"PS4-AIO"** app.
-2. Put **"MERGED.pkg"** in `GAME` folder.
-3. And you will get small PKG update **"Dummy_Update.pkg"** around 5-10MB in `PS4-AIO` folder.
-4. Install it.
