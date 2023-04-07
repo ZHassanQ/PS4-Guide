@@ -1,4 +1,4 @@
-# IN MAINTENANCE DONT USE COME TOMORROW OR A FEW HOURS LATER
+# IN MAINTENANCE DONT USE COME 8 APRIL OR LATER AT 7 APRIL
 This is a repository contains a guide to how to enable GoldHEN (Homebrew ENabler) on your PlayStation 4.
 
 GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
