@@ -3,18 +3,18 @@ In this file **"PKG-Modify"** there's a tutorial on how to modify PKG files with
 🧭 Table of Contents
 
 1. 🗃️ Marry:
-    - **[Remarry]()**
-    - **[Merge]()**
+    - **[Remarry](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-1-remarry-game--update)**
+    - **[Merge](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-2-5-merge-game--update--backport)**
 2. 🛠️ Backports:
-    - **[Backup]()**
-    - **[Reverse]()**
+    - **[Backup](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-3-backup-backports-files)**
+    - **[Reverse](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-4--ps4-rebuild-pkg---backport)**
 3. 💊 DLCs:
-    - **[Region]()**
-    - **[Unlock]()**
-    - **[Remove Data]()**
-    - **[Restore Data]()**
+    - **[Region](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-7-dlc---change-region)**
+    - **[Unlock](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-8-ps4-dlc-unlocker)**
+    - **[Restore Data](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-9-without-data-dlc-to-data-dlc)**
+    - **[Remove Data](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-10-data-dlc-to-without-data-dlc)**
 4. 🧩 Others
-    - **[Fix Game Info]()**
+    - **[Fix Game Info](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-6-fix-game-info)**
 
 
 # Marry
@@ -35,31 +35,47 @@ In this file **"PKG-Modify"** there's a tutorial on how to modify PKG files with
 # Backports
 ## 🛠️ 3. Backup Backports Files
 
-This will only backup backported files from @opoisso893 / @CyB1K / @mrBOOT... backported FPKGs. Keeping Game, Untouched Update and Backported update need a lot space on PC hdd. If you keep only backported files you can easy create backported FPKG again with untouched update. 
+This will only backup backported files from @opoisso893, @CyB1K, @mrBOOT.
 
+1. Put your BACKPORTED PKG file in:
+- If it's BASE or MERGED PKG file then, `GAME` folder.
+- If it's Update PKG file then, `UPDATE` folder.
 
 ## 🛠️ 4.  PS4 Rebuild PKG - Backport
 
 See option 3. Put game FPKG in GAME folder, update FPKG in UPDATE folder & backported files in BACKPORTED FILES folder.
 
+1. Put your GAME PKG file to `GAME` folder.
+2. Put your UPDATE PKG file to `UPDATE` folder.
+3. Put your BACKPORT PKG file to `BACKPORT` folder.
 
 # DLCs
 ## 💊 7. DLC - Change Region 
 
-Change DLC region. Just put dlcs in DLC folder. If you put game PKG (game for which you want to change DLC region) in GAME folder everything will be auto finished. Without game in GAME folder, you must input when asked EP/UP and CUSA number.
+1. Put your DLC PKG files to `DLC` folder.
+2. Input `EP` or `UP`
+- `EP` command is for EU region.
+- `UP` command is for US region.
+3. Inputs `CUSAXXXXX` where `X` is the `TITLE_ID`
 
  
 ## 💊 8. PS4 DLC Unlocker
 
-This will create only simple unlockers with @stooged's psDLC v26 (Article / PSDLC 2.1 Mogi PPSA GUI).
+This will create only simple unlockers with @stooged's psDLC v26.
 
-## 💊 10. Data DLC to Without Data DLC
-
-If you have DLC unlockers without data which need to be installed with USB method, because RPI over network cant install DLC without data. Generic picture will be added, picture from game or can choose picture you want. Put DLCs in DLC Folder. 
+1. Put your DLC PKG files to `DLC` folder. 
 
 ## 💊 9. Without Data DLC to Data DLC
 
-For some games: Soul Calibur VI, Cities: Skylines... if you have unlockers with extra data, game will have slow loading, menu lag... because still searching for DLCs. Picture will be preserved for any PKGViewer / PKGEditor, but on PS4 will be displayed with no name, no icon. Put DLCs in DLC Folder.
+For some games: "Soul Calibur VI", "Cities: Skylines" and more. If you have unlockers with extra data, game will have slow loading, menu lag. Because it's still searching for DLCs. 
+
+1. Put your DLC PKG files to `DLC` folder.
+ 
+## 💊 10. Data DLC to Without Data DLC
+
+If you have DLC unlockers without data which need to be installed with USB method, because RPI over network cant install DLC without data.
+
+1. Put your DLC PKG files to `DLC` folder. 
 
 
 # Others
