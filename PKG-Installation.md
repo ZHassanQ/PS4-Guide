@@ -15,7 +15,7 @@ In this file **"PKG-Installation"** there's a tutorial on how to install PKG fil
 
 # 🧪 Integrity Check
 
-Before installing any PKG file on your PlayStation 4 first open it with **"PS4PKGViewer"** to see if it's matches with your PlayStation 4 System, BASE, Update, and DLC.
+Before installing any PKG file on your PlayStation 4 first open it with **[PS4PKGViewer]()** to see if it's matches with your PlayStation 4 System, BASE, Update, and DLC.
 
 ## Compatibility to System
 
@@ -50,7 +50,7 @@ If you will install an update or DLC for your Game BASE then you need to check a
 
 # ⚙️ Installation
 
-Now that you checked the integrity and if the PKG file info matched with your System Version, and/or Update, and/or DLC.
+Now that you checked the integrity and if the PKG file info matched with your System Version, and/or Update, and/or DLC. You will install it, and there are three ways to do that:
 
 ## Flash Drive
 
@@ -64,7 +64,7 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 **In your PlayStation 4:**
 
 3. Connect your USB Flash Drive to your PS4.
-4. Go to "Settings" --> "Debug Settings" --> "Package Installer"
+4. Go to **"Settings"** --> **"Debug Settings"** --> **"Package Installer"**
 5. Select your PKG file.
 - If you have many PKG files then, install BASE then, Update, then DLC's.
 
@@ -87,10 +87,22 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 
 **In your PlayStation 4:**
 
-5. Launch **"Internal PKG Installer"** app.
+5. Launch **[Internal PKG Installer]()** app.
 - It should exit in a seconds then it will start installing.
 
 ## Internet Connection
+
+**In your Computer:**
+
+1. Launch **[DirectPKGInstaller]()**
+- This app is not completed 100% if you found any issue, go to it **[repository]()** and create an issue.
+2. Click on **"Options'**
+3. On **"Ip Address"** fill the required information.
+- You can get your PS4's ip address from **"System Information"**
+- You can get your Computer's ip address by: `ipconfig` or `ip address` command
+4. Click on **"Open"** and choose your PKG file, and click **"Open"** again.
+- You need to check **"Enable Bin loader Server"** on your PlayStation 4.
+5. Click **"Install"**
 
 
 # 🧰 Installation Errors
@@ -111,12 +123,4 @@ This error will be likely because the BASE game only had offline mode then updat
 
 ## Error #2 
 
-This error may pop-up because you downloaded from two different sources.
-
-**In your Computer:**
-
-1. Launch **"Duxa's PS4 Patch Repackager"**
-2. Put your `Update.pkg/file/location` in **"Patch:"**
-3. Put your `Base.pkg/file/location` in **"Game:"**
-4. Uncheck everything down.
-5. Click **"GO"** (It will Approximately take 20 Minutes) 
+This error may pop-up because you downloaded from two different sources. So they weren't from the same console or disk and etc. To fix it see this **[Section]()** from **[PKG-Modify.md]()** file.
