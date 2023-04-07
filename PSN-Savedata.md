@@ -1,19 +1,24 @@
 
-In this section you will create an activated PSN account so you can copy your savedata from your jailbroken PS4 to retail PS4. And how to install encrypted savedata that are not signed to your account.
+In this file **"PSN-Savedata.md"** there's a tutorial on how to create an activated PSN either from real account or a fake ID. And how to install encrypted savedata that are not signed to your account, and more.
 
 🧭 Table of Contents
 
 1. 🌍 PSN ID:
-    - **[Fake PSN ID]()**
-    - **[Real PSN ID]()**
+    - **[Fake PSN ID](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#fake-psn-id)**
+    - **[Real PSN ID](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#real-psn-id)**
 2. 💾 Savedata:
-    - **[Encrypted]()**
-    - **[Region Change]()**
-    - **[Retail]()**
+    - **[Encrypted](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-encrypted)**
+    - **[Region Change](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-region-change)**
+    - **[Retail](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-fpkg-to-retail)**
 
 
 # PSN ID
 ## Fake PSN ID
+
+1. Select **"User Tools"** menu, and 
+2. Select **"Activate PS4 Accounts"**
+- By default the local account will be activated with an auto-generated account-id value.
+
 ## Real PSN ID
 
 **In (Retail) PS4:**
@@ -28,11 +33,13 @@ In this section you will create an activated PSN account so you can copy your sa
 1. Connect the USB Flash Drive in your computer.
 2. Copy your PSN_ID `USB:\PS4\SAVEDATA\PSN_ID\CUSAXXXXX\`
 
+---
+
 
 # Savedata 
 ## 💾 Encrypted
 
-- Make sure the savedata you have match the **"Title_ID"** of the game you own. (If not read this **[section]()**)
+- Make sure the savedata you have match the **"Title_ID"** of the game you own. (If not read this **[section](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-region-change)**)
 - For example your Game ID = `XXXXX01010` then the savedata you want to copy `XXXXX01010`
 
 ---
