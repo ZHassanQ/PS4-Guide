@@ -21,7 +21,7 @@ In this file **"PSN-Savedata.md"** there's a tutorial on how to create an activa
 
 ## Real PSN ID
 
-**In (Retail) PS4:**
+**In your (Retail) PS4:**
 
 1. Sign in in the account you want to use.
 2. Copy any savedata to your USB Flash Drive.
@@ -31,10 +31,16 @@ In this file **"PSN-Savedata.md"** there's a tutorial on how to create an activa
 **In your Computer:**
 
 1. Connect the USB Flash Drive in your computer.
-2. Copy your PSN_ID `USB:\PS4\SAVEDATA\PSN_ID\CUSAXXXXX\`
+2. Copy your PSN_ID `USB:\PS4\SAVEDATA\ACC_ID\CUSAXXXXX\`
 
 ---
 
+In your (HEN) PS4:**
+
+1. Launch the **"Internet Browser"** app.
+2. Visit this Website.
+- https://sleirsgoevy.github.io/ps4-web-activator/
+3. Write your `ACC_ID` then, select **"Set & Activate"**
 
 # Savedata 
 ## 💾 Encrypted
