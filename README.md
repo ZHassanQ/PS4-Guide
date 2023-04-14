@@ -1,4 +1,68 @@
-# IN MAINTENANCE DONT USE, COME SOON
+# IN MAINTENANCE DONT USE, COME SOON!
+# PS4 Complete Guide!
+
+This repository contains a complete guide on how to install HEN (Hombrew ENabler) on your PlayStation 4 and everything to do with it. If you're in 9.00 you need to have a USB Flash Drive and an Internet Connection, and if you're on 5.05 you don't need any external components or anything just an Internet Connection to a website that can be either self hosted or visited if hosted.
+
+## Up-to-Date?
+
+Every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, create an issue for others)
+
+### Last Check
+
+- HEN Guide: 7/April/2023
+- Installation: 5/April/2023
+- Modify: 5/April/2023
+- Patches: 7/April/2023
+- Customize: 7/April/2023
+
+# Repository Navigation
+
+As this repository almost covers everything you can do with your PlayStation 4, it has a lot of pages, but easy to follow. And I suggest that you follow the guide as numbered:
+
+1. **[HEN Wiki]()**
+- **[PKG-Patches]()**
+- **[PKG-Modify]()**
+2. **[PKG-Installation]()**
+- **[XMB-Customize]()**
+
+## HEN Wiki
+
+This section contains a guide on how to install (Homebrew ENabler) on your PlayStation 4, and how to:
+
+### CFW Wiki Navigation
+
+1. **[Preparing]()**
+    - **[Compatiblity]()**
+    - **[Settings]()**
+2. **[Self Host]()**
+    - **[Online]()**
+    - **[Self Host]()**
+3. **[GoldHEN]()**
+    - **[Exploits 9.00]()**
+    - **[Inject Exploits]()**
+    - **[Notes]()**
+
+## PKG
+### PKG Patches
+### PKG Modify
+### PKG Installation
+
+## PSN - Savedata
+## XMB Customize
+
+
+
+
+
+
+
+
+
+
+
+
+# OLD
+
 This is a repository contains a guide to how to enable GoldHEN (Homebrew ENabler) on your PlayStation 4.
 
 GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
