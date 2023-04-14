@@ -1,4 +1,3 @@
-
 In this file **"PSN-Savedata.md"** there's a tutorial on how to create an activated PSN either from real account or a fake ID. And how to install encrypted savedata that are not signed to your account, and more.
 
 🧭 Table of Contents
@@ -90,5 +89,5 @@ In your (HEN) PS4:**
 1. Launch **"Apollo Save Tool"**
 2. Go to **"HDD Saves"** then, choose your savedata.
 4. Select **"Import keystone"**
-- It will copy a keystone file from: `data/apollo/PSN-ID/CUSA010101`
+- It will copy a keystone file from: `data/apollo/PSN-ID/CUSAXXXXX`
 - Keystone file can be obtained by selecting **"Export keystone"** from a Savedata played in retail PS4 without resigning it.
