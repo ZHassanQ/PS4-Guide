@@ -1,4 +1,4 @@
-In this file **""** there's a tutorial on how to customize your PS4 Home Screen with changing your Profile Picture, Login Intro, Main Music, Apps Icons, and Hiding Apps.
+In this file **"XMB-Customize.md"** there's a tutorial on how to customize your PS4 Home Screen with changing your Profile Picture, Login Intro, Main Music, Apps Icons, and Hiding Apps.
 
 🧭 Table of Contents
 
@@ -57,7 +57,7 @@ In this file **""** there's a tutorial on how to customize your PS4 Home Screen 
 7. Click **"Browse Data"**
 8. Select the Table `tbl_appbrowse_0413713369`
 9. Scroll to the right side until you see **"visible"** Cell
-- If the Filter is **"0"** it means hidden.
+- If the filter is **"0"** it means hidden.
 - If the filter is **"1"** it means visible.
 10. Save it and replace it to your PS4 in `system_data\priv\mms`
 
