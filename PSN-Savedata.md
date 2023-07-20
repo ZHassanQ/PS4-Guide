@@ -72,7 +72,7 @@ In your (HEN) PS4:**
 2. Copy the **"Savedata"** to your PS4.
 3. Go to **"HDD Saves"** then, choose the Savedata you want to transfer. 
 4. Select **"Export decrypted save files"** and export them all.
-- There may be 1 or 10 files depending on the game.
+- There may be 1 to 10 files depending on the game.
 5. Go to `/data/apollo/ACC_ID/`
 6. Rename `CUSAXXXXX` to the `TITLE_ID` of your game.
 7. Create Savedata for your game to replace it later.
