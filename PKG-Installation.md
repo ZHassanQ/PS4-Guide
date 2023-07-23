@@ -2,15 +2,15 @@ In this file **"PKG-Installation"** there's a tutorial on how to install PKG fil
 
 🧭 Table of Contents
 1. 🧪 Integrity Check:
-    - **[Compatiblity to System](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#compatibility-to-system)**
-    - **[Compatiblity to BASE](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#compatiblity-to-base)**
+    - **[Compatiblity to System](#compatibility-to-system)**
+    - **[Compatiblity to BASE](#compatiblity-to-base)**
 2. ⚙️ Installation
-    - **[Flash Drive](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#flash-drive)**
-    - **[Internal Storage](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#internal-storage)**
-    - **[Internet Connection](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#internet-connection)**
+    - **[Flash Drive](#flash-drive)**
+    - **[Internal Storage](#internal-storage)**
+    - **[Internet Connection](#internet-connection)**
 3. 🧰 Installation Errors
-    - **[Error #1](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#error-1)**
-    - **[Error #2](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Installation.md#error-2)**
+    - **[Error #1](#error-1)**
+    - **[Error #2](#error-2)**
 
 
 # 🧪 Integrity Check
@@ -92,17 +92,7 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 
 ## Internet Connection
 
-**In your Computer:**
 
-1. Launch **[DirectPKGInstaller]()**
-- This app is not completed 100% if you found any issue, go to it **[repository]()** and create an issue.
-2. Click on **"Options'**
-3. On **"Ip Address"** fill the required information.
-- You can get your PS4's ip address from **"System Information"**
-- You can get your Computer's ip address by: `ipconfig` or `ip address` command
-4. Click on **"Open"** and choose your PKG file, and click **"Open"** again.
-- You need to check **"Enable Bin loader Server"** on your PlayStation 4.
-5. Click **"Install"**
 
 
 # 🧰 Installation Errors
