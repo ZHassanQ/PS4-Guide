@@ -2,17 +2,17 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 
 🧭 Table of Contents
 
-1. 🌍 Apps:
-    - **[Icons]()**
-    - **[Hide, Show]()**
-2. Music:
-    - **[Login Music]()**
-    - **[Main Music]()**
-3. Others:
-    - **[Profile Picture]()**
+1. 🌍 **[Apps:](#-apps)**
+    - [Icons](#icons)
+    - [Hide, Show](#hide-show)
+2. 🎼 **[Music:](#-music)**
+    - [Login Music](#login-music)
+    - [Main Music](#main-music)
+3. 🧩 [Others:](#-others)
+    - [Profile Picture](#profile-picture)
 
 
-
+# 🌍 Apps
 ## Icons
 
 
@@ -62,7 +62,7 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 10. Save it and replace it to your PS4 in `system_data\priv\mms`
 
 
-# Music
+# 🎼 Music
 ## Login Music
 
 **In your PS4:**
@@ -102,26 +102,7 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 - If you want it back just rename it back.
 5. Download any Music you want and convert it to **".at9"** by **“AT9-AT3-converter”** app.
 
-# Others
+# 🧩 Others
 ## Profile Picture
 
-**In your PS4:**
-
-1. Go to **"GoldHEN"** Settings.
-2. Go to **"Server Settings"** and check **"Enable FTP Server"**
-
----
-
-**In your Computer**
-
-1. Run your FTP Client.
-2. Connect to your PS4.
-3. Create copy of your picture sizes down below.
-4. Rename the picture you want like down below.
-5. Replace the avatar you want from `system_data/priv/cache/profile/` folder.
-
-- **"440x440"** Called **"avatar.png"**
-- **"440x440"** Called **"avatar440.dds"**
-- **"260x260"** Called **"avatar260.dds"**
-- **"128x128"** Called **"avatar128.dds"**
-- **"64x64"** Called **"avatar64.dds"**
+If you want to replace your profile picture, then you need to have a `512x512` picture. And then copy it to your PS4 in any directory. (Preferably `data\PS4Xplorer`) After that launch PS4Xplorer and go to your picture and set it as a profile picture.
