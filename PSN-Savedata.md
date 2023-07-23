@@ -3,22 +3,22 @@ In this file **"PSN-Savedata.md"** there's a tutorial on how to create an activa
 🧭 Table of Contents
 
 1. 🌍 PSN ID:
-    - **[Fake PSN ID](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#fake-psn-id)**
-    - **[Real PSN ID](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#real-psn-id)**
+    - **[Fake PSN ID](#-fake-psn-id)**
+    - **[Real PSN ID](#-real-psn-id)**
 2. 💾 Savedata:
-    - **[Encrypted](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-encrypted)**
-    - **[Region Change](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-region-change)**
-    - **[Retail](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-fpkg-to-retail)**
+    - **[Encrypted](#-encrypted)**
+    - **[Region Change](#-region-change)**
+    - **[Retail](#-fpkg-to-retail)**
 
 
 # PSN ID
-## Fake PSN ID
+## 🌐 Fake PSN ID
 
 1. Select **"User Tools"** menu.
 2. Select **"Activate PS4 Accounts"**
 - By default the local account will be activated with an auto-generated account-id value.
 
-## Real PSN ID
+## 🌐 Real PSN ID
 
 To activate an account offline, go to the `User Tools` menu, and select Activate PS4 Accounts. By default the local account will be activated with an auto-generated account-id value. This default account value can be edited using the on-screen keyboard.
 
@@ -28,7 +28,7 @@ To activate an account offline, go to the `User Tools` menu, and select Activate
 # Savedata 
 ## 💾 Encrypted
 
-- Make sure the savedata you have match the **"Title_ID"** of the game you own. (If not read this **[section](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PSN-Savedata.md#-region-change)**)
+- Make sure the savedata you have match the **"Title_ID"** of the game you own. (If not read this **[section](#-region-change)**)
 - For example your Game ID = `XXXXX01010` then the savedata you want to copy `XXXXX01010`
 
 ---
