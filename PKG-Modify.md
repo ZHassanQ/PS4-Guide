@@ -3,18 +3,18 @@ In this file **"PKG-Modify"** there's a tutorial on how to modify PKG files with
 🧭 Table of Contents
 
 1. 🗃️ Marry:
-    - **[Remarry](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-1-remarry-game--update)**
-    - **[Merge](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-2-5-merge-game--update--backport)**
+    - **[Remarry](#%EF%B8%8F-1-remarry-game--update)**
+    - **[Merge](#%EF%B8%8F-2-5-merge-game--update--backport)**
 2. 🛠️ Backports:
-    - **[Backup](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-3-backup-backports-files)**
-    - **[Reverse](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-4--ps4-rebuild-pkg---backport)**
+    - **[Backup](#%EF%B8%8F-3-backup-backports-files)**
+    - **[Reverse](#%EF%B8%8F-4--ps4-rebuild-pkg---backport)**
 3. 💊 DLCs:
-    - **[Region](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-7-dlc---change-region)**
-    - **[Unlock](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-8-ps4-dlc-unlocker)**
-    - **[Restore Data](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-9-without-data-dlc-to-data-dlc)**
-    - **[Remove Data](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-10-data-dlc-to-without-data-dlc)**
+    - **[Region](#-7-dlc---change-region)**
+    - **[Unlock](#-8-ps4-dlc-unlocker)**
+    - **[Restore Data](#-9-without-data-dlc-to-data-dlc)**
+    - **[Remove Data](#-10-data-dlc-to-without-data-dlc)**
 4. 🧩 Others
-    - **[Fix Game Info](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/blob/main/PKG-Modify.md#-6-fix-game-info)**
+    - **[Fix Game Info](#-6-fix-game-info)**
 
 
 # Marry
