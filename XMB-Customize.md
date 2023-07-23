@@ -13,8 +13,13 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 
 
 # 🌍 Apps
+
+If you don't like your PSN apps and you would like to hide them, or you want to change the icons looks like. Then you can easily do that by doing the following steps.
+
+
 ## Icons
 
+If you want to change the way your PSN apps, games icons looks like, do the following.
 
 1. Launch **“Icon Mask”** in your PS4.
 - There are already customized icons. 
@@ -34,6 +39,8 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 3. Choose which icons you want to put & which one to Replace with.
 
 ## Hide, Show
+
+If you want to hide some PSN apps that can't be deleted, you can hide them by:
 
 **In your PS4:**
 
@@ -63,7 +70,12 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 
 
 # 🎼 Music
+
+If you don't like, or got bored by the intro (login) music of PlayStation 4, or the main theme that plays in the background you can change them by the following steps.
+
 ## Login Music
+
+To change the intro (login) music of your PlayStation 4, do the following:
 
 **In your PS4:**
 
@@ -72,7 +84,7 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 
 ---
 
-**In your Computer**
+**In your Computer:**
 
 1. Run your FTP Client.
 2. Connect to your PS4.
@@ -85,6 +97,8 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
  
 ## Main Music
 
+To change the main music (theme) of your PlayStation 4, do the following:
+
 **In your PS4:**
 
 1. Go to **"GoldHEN"** Settings.
@@ -92,7 +106,7 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
 
 ---
 
-**In your Computer**
+**In your Computer:**
 
 1. Run your FTP Client.
 2. Connect to your PS4.
