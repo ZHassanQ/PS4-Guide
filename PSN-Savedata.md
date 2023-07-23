@@ -14,32 +14,16 @@ In this file **"PSN-Savedata.md"** there's a tutorial on how to create an activa
 # PSN ID
 ## Fake PSN ID
 
-1. Select **"User Tools"** menu, and 
+1. Select **"User Tools"** menu.
 2. Select **"Activate PS4 Accounts"**
 - By default the local account will be activated with an auto-generated account-id value.
 
 ## Real PSN ID
 
-**In your (Retail) PS4:**
+To activate an account offline, go to the `User Tools` menu, and select Activate PS4 Accounts. By default the local account will be activated with an auto-generated account-id value. This default account value can be edited using the on-screen keyboard.
 
-1. Sign in in the account you want to use.
-2. Copy any savedata to your USB Flash Drive.
-
----
-
-**In your Computer:**
-
-1. Connect the USB Flash Drive in your computer.
-2. Copy your PSN_ID `USB:\PS4\SAVEDATA\ACC_ID\CUSAXXXXX\`
-
----
-
-In your (HEN) PS4:**
-
-1. Launch the **"Internet Browser"** app.
-2. Visit this Website.
-- https://sleirsgoevy.github.io/ps4-web-activator/
-3. Write your `ACC_ID` then, select **"Set & Activate"**
+- How to know your PSN ID?
+    - Simply copy any savedata from your account to your USB Flash Drive. It will create a directory like this: `X:PS4\SAVEDATA\PSN_ACC_ID\CUSAXXXXX`
 
 # Savedata 
 ## 💾 Encrypted
@@ -72,7 +56,7 @@ In your (HEN) PS4:**
 2. Copy the **"Savedata"** to your PS4.
 3. Go to **"HDD Saves"** then, choose the Savedata you want to transfer. 
 4. Select **"Export decrypted save files"** and export them all.
-- There may be 1 to 10 files depending on the game.
+- There may be 1-10 files depending on the game.
 5. Go to `/data/apollo/ACC_ID/`
 6. Rename `CUSAXXXXX` to the `TITLE_ID` of your game.
 7. Create Savedata for your game to replace it later.
@@ -90,4 +74,4 @@ In your (HEN) PS4:**
 2. Go to **"HDD Saves"** then, choose your savedata.
 4. Select **"Import keystone"**
 - It will copy a keystone file from: `data/apollo/PSN-ID/CUSAXXXXX`
-- Keystone file can be obtained by selecting **"Export keystone"** from a Savedata played in retail PS4 without resigning it.
+- Keystone file can be obtained by selecting **"Export keystone"** from a Savedata played in retail PKG-file game without resigning it.
