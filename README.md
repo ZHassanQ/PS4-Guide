@@ -5,25 +5,27 @@ This repository contains a complete guide on how to install HEN (Hombrew ENabler
 
 ## Up-to-Date?
 
-Every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, create an issue for others)
+Every single file of this guide links to the repository release's. And every single file was downloaded from the original source. If you want check if there's any outdated files, simply go to releases and all links will either redirect you to the original source or a section where the original source link is written in a word. (If you found out an outdated app, pull a request for others)
 
 ### Last Check
 
-- HEN Guide: 7/April/2023
-- Installation: 5/April/2023
-- Modify: 5/April/2023
-- Patches: 7/April/2023
-- Customize: 7/April/2023
+- HEN Guide: Up-to-date for 5.05 and 9.00
+- Installation: Cannot be outdated.
+- Modify: Cannot be outdated, if there's any more, easier or advanced modifying i will try to cover it.
+- Patches: Cannot be outdated, if there's any more, easier or advanced patches i will try to cover it.
+- Customize: Cannot be outdated, if there's any more, easier or advanced customizing i will try to cover it.
+- Online Services (PSN): Sadly still there's no way to connect to PSN services without updating to the latest firmware.
+    - Note: I am aware of saving a flash dump, so you can update and revert later. But these methods use soldering which will not be covered.
 
 # Repository Navigation
 
 As this repository almost covers everything you can do with your PlayStation 4, it has a lot of pages, but easy to follow. And I suggest that you follow the guide as numbered:
 
-1. **[HEN Wiki]()**
-- **[PKG-Patches]()**
-- **[PKG-Modify]()**
-2. **[PKG-Installation]()**
-- **[XMB-Customize]()**
+1. **[HEN Wiki](#hen-wiki)**
+2. **[PKG-files](#pkg-files)**
+- **[User - PSN, Savedata](#user)
+- **[XMB - Customize](#xmb)**
+
 
 ## HEN Wiki
 
@@ -31,120 +33,43 @@ This section contains a guide on how to install (Homebrew ENabler) on your PlayS
 
 ### CFW Wiki Navigation
 
-1. **[Preparing]()**
-    - **[Compatiblity]()**
-    - **[Settings]()**
-2. **[Self Host]()**
-    - **[Online]()**
-    - **[Self Host]()**
-3. **[GoldHEN]()**
-    - **[Exploits 9.00]()**
-    - **[Inject Exploits]()**
-    - **[Notes]()**
+1. **[Preparing](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing)**
+    - [Firmwares](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing#firmwares)
+      - [What to Choose?](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing#what-to-choose)
+    - [Compatibility](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing#compatibility)
+      - [Settings](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing#settings)
+2. **[Self Host](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host))**
+    - [Websites](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#websites)
+      - [Online](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#online)
+      - [Offline, Self Host](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#offline-self-host)
+        - [Entering the Website](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#entering-the-website)
+3. **[9.00 Magic USB Setup](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup)**
+    - [Setup](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#setup)
+       - [Image-file](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#image-file)
+        - [Injecting the exploit](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#injecting-the-exploit)
+        - [Reset "System Volume Information"](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#reset-system-volume-information)
+       - [The Magic Drive](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#the-magic-drive)
+4. **[GoldHEN](https://github.com/ZHassanQ/PS4-Guide/wiki/4.-GoldHEN)**
+    - [Inject Exploits](https://github.com/ZHassanQ/PS4-Guide/wiki/4.-GoldHEN#injecting-the-exploit)
+      - [Notes](https://github.com/ZHassanQ/PS4-Guide/wiki/4.-GoldHEN#notes)
 
-## PKG
-### PKG Patches
-### PKG Modify
-### PKG Installation
+## PKG-files
 
-## PSN - Savedata
-## XMB Customize
+This section is important for nearly everything, if you want to know how install PKG-files, or why they aren't installing. And how to modify or, patch them.
 
-
-
-
-
-
-
-
-
-
-
-
-# OLD
-
-This is a repository contains a guide to how to enable GoldHEN (Homebrew ENabler) on your PlayStation 4.
-
-GoldHEN Sections: **[Wiki](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki)**
-
-- **[Preparing](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/0.-Preparing)**
-- **[How to Self Host GoldHEN](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/1.-How-to-Self-Host-GoldHEN)**
-- **[Enabling GoldHEN](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/2.-Enabling-GoldHEN)**
-- **[Installing Apps, Games, Updates & Themes](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/3.-Installing-Apps,-Games,-Updates,-&-Themes)**
-- **[Customizing](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/4.-Customizing)**
-- **[Creating Activated PSN Account & Installing Encrypted Savedata](https://github.com/ZHassanQ/PS4-GoldHEN-Guide/wiki/5.-Creating-Activated-PSN-Account-&-Installing-Encrypted-Savedata)**
+### Installation
+### Modify
+### Patches
 
 
-# GoldHEN & Exploit
 
-- **[GoldHEN](https://github.com/GoldHEN/GoldHEN)**
-- **[GoldHEN KAR0218 Host](http://karo218.ir/) - [Kameleon Host](http://kmeps4.site/)**
-- **[PS4 9.00 Kernel Exploit (exfathax.img)](https://github.com/ChendoChap/pOOBs4)**
+## User
 
+This section is optional, if you want to know how to use your real `ACC_ID` so that every savedata is automatically signed for your account. Then follow this section.
 
-## Apps (PS4)
+### PSN - Savedata
+## XMB
 
-- **[Apollo Save Tool](https://github.com/bucanero/apollo-ps4)** An application to manage save-game files on the PlayStation 4.
-- **[GoldHEN Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)** An open-source PlayStation 4 cheat code manager for GoldHEN.
-- **[Icon Mask](https://www.psxhax.com/threads/icon-mask-beta-ps4-pkg-homebrew-application-by-lapy05575948.11661/)** A Homebrew application to change the appearance of PS4 icons with a single click.
-- **[Itemzflow](https://github.com/LightningMods/Itemzflow)** A PS4 Game manager and Home menu.
-- **[Netflix](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A Netflix app with no PSN version.
-- **[PS4 FTP Client](https://github.com/cy33hc/ps4-ftp-client)** Simple FTP client for the PS4.
-- **[PS4 Media Player](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A Media Player app with no PSN version.
-- **[PS4 Patch Installer](https://orbispatches.com/homebrew)** An app to check and download every PS4 game update you have installed.
-- **[PS4-Xplorer 2.0](https://www.psxhax.com/threads/ps4-xplorer-v2-01-file-manager-by-lapy05575948-ps4-player-preview-video.6718/)** A simple PS4 file explorer.
-- **[Payload Guest](https://github.com/Al-Azif/ps4-payload-guest)** Bin Loader PKG for the PlayStation 4.
-- **[Store-R2](https://pkg-zone.com)** A Homebrew Store where you can download homebrew apps.
-- **[YouTube TV](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A YouTube TV app with no PSN version.
-- **[YouTube (9.00ver)](https://www.psxhax.com/threads/youtube-application-nopsn-pkgs-for-ps4-now-available.5882/)** A YouTube app with no PSN version.
+This section is optional, if you want to see how you can customize your XMB by, changing games icons, and/or the main theme, music of your PlayStation 4.
 
-
-## Apps (Computer)
-
-- **[AT9 - AT3 Converter](https://www.psx-place.com/threads/at9-at3-converter-by-benmitnick-updated-to-v2-3.14356/)**
-- **[BalenaEtcher](https://www.balena.io/etcher)**
-- **[DB Browser for SQLite](https://sqlitebrowser.org/)**
-- **[Duxa's PS4 Patch Repackager 7.2.18](https://www.psxhax.com/threads/ps4-pkg-repackager-to-repackage-fake-updates-by-duxa-chrushev.5037/)**
-- **[FileZilla](https://filezilla-project.org/)**
-- **[PS4 Offline Account Activator](https://www.psxhax.com/threads/ps4offlineaccountactivator-ps4-offline-account-activator-gui-by-charlyzard-**barthen.7347/)**
-- **[PS4 Save Mounter](https://github.com/ChendoChap/Playstation-4-Save-Mounter)**
-- **[PS4-AIO](https://www.psxhax.com/threads/ps4-aio-batch-file-script-for-games-updates-with-fpkg-tools-by-jation.12537/)**
-- **[PS4PKGViewer](https://sites.google.com/site/theleecherman/ps4pkgviewer)**
-- **[Rufus](https://rufus.ie/en/)**
-
-
-# Credits & Donations
-
-- GoldHEN **[SiSTR0](https://ko-fi.com/SiSTRo)** - **[GoldHEN](https://github.com/GoldHEN/GoldHEN)**
-- GoldHEN Host **[KAR0218](https://github.com/KAR0218/)**
-- PS4 9.00 Kernel Exploit (exfathax.img) **[ChendoChap](https://github.com/ChendoChap)**
-
----
-
-- Apollo Save Tool  **[bucanero](https://github.com/bucanero/apollo-ps4)** - **[PayPal](https://www.paypal.me/bucanerodev)**
-- GoldHEN Cheat Manager **[GoldHEN](https://github.com/GoldHEN/)** - **[Patreon](https://patreon.com/dparrino)** - **[PayPal](https://www.paypal.me/bucanerodev)**
-- Icon Mask **[Lapy](https://github.com/Lapy055)** - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
-- Itemzflow **[LightiningMods](https://github.com/LightningMods/)** - **[Ko-fi](https://ko-fi.com/lightningmods)**
-- Netflix **[HK31](https://www.psxhax.com/members/hk31.484616/)**
-- PS4 FTP Client **[cy33hc](https://github.com/cy33hc)** - **[PSXHAX](https://www.psxhax.com/members/cy33hc.687263/)**
-- PS4 Media Player **[HK31](https://www.psxhax.com/members/hk31.484616/)**
-- PS4-Xplorer 2.0 **[Lapy](https://github.com/Lapy055)** - **[PSXHAX](https://www.psxhax.com/members/lapy.527357/)**
-- PS4 Patch Installer **[0x199](https://twitter.com/0x199)**
-- Payload Guest **[Al-Azif](https://github.com/Al-Azif/)**
-- Store-R2 **[LightiningMods](https://github.com/LightningMods/)** - **[Ko-fi](https://ko-fi.com/lightningmods)**
-- YouTube TV **[HK31](https://www.psxhax.com/members/hk31.484616/)**
-- YouTube (9.00ver) **[HK31](https://www.psxhax.com/members/hk31.484616/)**
-
----
-
-- AT9 - AT3 Converter **[BenMitnicK](https://github.com/BenMitnicK)**
-- BalenaEtcher **[Website](https://www.balena.io/)**
-- DB Browser for SQLite **[sqlitebrowser](https://github.com/sqlitebrowser/)** - **[Patreon](https://www.patreon.com/db4s)**
-- Duxa's PS4 Patch Repackager 7.2.18 **[Chrushev](https://www.psxhax.com/members/357134/)**
-- FileZilla **[FileZillaPro](https://filezillapro.com/)**
-- PS4 Offline Account Activator **[charlyzard](https://github.com/charlyzard)**
-- PS4 Save Mounter **[ChendoChap](https://github.com/ChendoChap/)**
-- PS4-AIO **[jation](https://www.psxhax.com/members/508878/)**
-- PS4PKGViewer **[LMAN aka TheLeecherMan](https://sites.google.com/site/theleecherman/home)** - **[PayPal](https://www.paypal.com/paypalme/LeecherMan)**
-- Rufus **[pbatard](https://github.com/pbatard)**
-
+### Customize
