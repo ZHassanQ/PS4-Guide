@@ -73,3 +73,11 @@ This section is optional, if you want to know how to use your real `ACC_ID` so t
 This section is optional, if you want to see how you can customize your XMB by, changing games icons, and/or the main theme, music of your PlayStation 4.
 
 ### Customize
+
+
+# Other Guides
+
+If you have PS3, or PSVita then go check out these repositories! They have a full guide on how to do nearly everything on them covered about the PlayStation 3 and Vita homebrew. And how to jailbreak them or, to exploit them.
+
+- **[PS3 Guide](https://github.com/ZHassanQ/PS3-Guide)** contains how to install either HEN or, CFW on your PlayStation 3 and more.
+- **[PSVita Guide](https://github.com/ZHassanQ/PSVita-Guide)** contains a guide on how to install HENKaku, and how to make it permanent if your PSVita is compatible.
