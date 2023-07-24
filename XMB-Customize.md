@@ -22,6 +22,7 @@ If you don't like your PSN apps and you would like to hide them, or you want to 
 If you want to change the way your PSN apps, games icons looks like, do the following.
 
 1. Launch **“Icon Mask”** in your PS4.
+- If you haven't already installed it go to **[PKG-Installation.md](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md)** to see how to install PKG-files in many different ways, and what to do if an there are an errors.
 - There are already customized icons. 
 
 ---
@@ -115,7 +116,8 @@ To change the main music (theme) of your PlayStation 4, do the following:
 4. Rename `bgm_main.at9` to `bgm_main.at91` 
 - It will be original backup.
 - If you want it back just rename it back.
-5. Download any Music you want and convert it to **".at9"** by **“AT9-AT3-converter”** app.
+5. Download any Music you want and convert it to **".at9"**.
+- I recommend **[]()** app.
 
 # 🧩 Others
 ## Profile Picture
