@@ -1,4 +1,3 @@
-# IN MAINTENANCE DONT USE, COME SOON!
 # PS4 Complete Guide!
 
 This repository contains a complete guide on how to install HEN (Hombrew ENabler) on your PlayStation 4 and everything to do with it. If you're in 9.00 you need to have a USB Flash Drive and an Internet Connection, and if you're on 5.05 you don't need any external components or anything just an Internet Connection to a website that can be either self hosted or visited if hosted.
@@ -23,7 +22,7 @@ As this repository almost covers everything you can do with your PlayStation 4, 
 
 1. **[HEN Wiki](#hen-wiki)**
 2. **[PKG-files](#pkg-files)**
-- **[User - PSN, Savedata](#user)
+- **[User - PSN, Savedata](#user)**
 - **[XMB - Customize](#xmb)**
 
 
@@ -62,12 +61,13 @@ This section is important for nearly everything, if you want to know how install
 ### Patches
 
 
-
 ## User
 
 This section is optional, if you want to know how to use your real `ACC_ID` so that every savedata is automatically signed for your account. Then follow this section.
 
 ### PSN - Savedata
+
+
 ## XMB
 
 This section is optional, if you want to see how you can customize your XMB by, changing games icons, and/or the main theme, music of your PlayStation 4.
