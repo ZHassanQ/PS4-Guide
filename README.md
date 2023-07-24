@@ -10,10 +10,9 @@ Every single file of this guide links to the repository release's. And every sin
 
 - HEN Guide: Up-to-date for 5.05 and 9.00
 - Installation: Cannot be outdated.
-- Modify: Cannot be outdated, if there's any more, easier or advanced modifying i will try to cover it.
-- Patches: Cannot be outdated, if there's any more, easier or advanced patches i will try to cover it.
+- Modify: Cannot be outdated, if there's any more, easier or advanced modifying or patches and etc. I will try to cover it.
 - Customize: Cannot be outdated, if there's any more, easier or advanced customizing i will try to cover it.
-- Online Services (PSN): Sadly still there's no way to connect to PSN services without updating to the latest firmware.
+- Online Services (PSN): Sadly, there's no way to connect to PSN services without updating to the latest firmware.
     - Note: I am aware of saving a flash dump, so you can update and revert later. But these methods use soldering which will not be covered.
 
 # Repository Navigation
@@ -54,7 +53,7 @@ This section contains a guide on how to install (Homebrew ENabler) on your PlayS
 
 ## PKG-files
 
-This section is important for nearly everything, if you want to know how install PKG-files, or why they aren't installing. And how to modify or, patch them.
+This section is important for nearly everything, if you want to know how install PKG-files, or why they aren't installing. And how to modify or, patch them and more.
 
 ### Installation
 ### Modify
@@ -63,14 +62,14 @@ This section is important for nearly everything, if you want to know how install
 
 ## User
 
-This section is optional, if you want to know how to use your real `ACC_ID` so that every savedata is automatically signed for your account. Then follow this section.
+This section is optional, if you want to know how to use your real `ACC_ID` so that every savedata is automatically signed for your account, and etc. Then follow this section.
 
 ### PSN - Savedata
 
 
 ## XMB
 
-This section is optional, if you want to see how you can customize your XMB by, changing games icons, and/or the main theme, music of your PlayStation 4.
+This section is optional, if you want to see how you can customize your XMB by, changing games icons, and/or the main theme, music of your PlayStation 4 and more.
 
 ### Customize
 
