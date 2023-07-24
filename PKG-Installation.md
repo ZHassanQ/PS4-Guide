@@ -56,7 +56,7 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 
 **In your Computer:**
 
-1. Format your HDD, or your Flash Drive to  **"exFAT"** filesystem.
+1. Format your HDD, or your Flash Drive to  **exFAT** filesystem it it's greater than 4GB. Else format it to **FAT32**.
 2. Then put the PKG files in the root of your HDD, or your Flash Drive.
 
 ---
