@@ -1,4 +1,4 @@
-In this file **"XMB-Customize.md"** there's a tutorial on how to customize your PS4 Home Screen with changing your Profile Picture, Login Intro, Main Music, Apps Icons, and Hiding Apps.
+In this file **"XMB-Customize.md"** there's a tutorial on how to customize your PS4 Home Screen with changing your Profile Picture, Login Intro, Main Music, Apps Icons, and Hiding Apps. Note that the methods i am explaing requires two apps, one can connect to FTP-Servers like **[FileZilla](https://filezilla-project.org/)**, and one can read database files like **[DB Browser for SQLite](https://sqlitebrowser.org/)**.
 
 🧭 Table of Contents
 
@@ -59,11 +59,12 @@ If you want to hide some PSN apps that can't be deleted, you can hide them by:
 
 ---
 
-5. Run **"DB Browser for SQLite"** app.
-6. Choose **"app.db"**
-7. Click **"Browse Data"**
-8. Select the Table `tbl_appbrowse_0413713369`
-9. Scroll to the right side until you see **"visible"** Cell
+5. Run any app that can read databaes files.
+- I am using DB Browser for SQLite app.
+7. Choose **"app.db"**
+8. Click **"Browse Data"**
+9. Select the Table `tbl_appbrowse_0413713369`
+10. Scroll to the right side until you see **"visible"** Cell
 - If the filter is **"0"** it means hidden.
 - If the filter is **"1"** it means visible.
 10. Save it and replace it to your PS4 in `system_data\priv\mms`
