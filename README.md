@@ -140,4 +140,4 @@ In **"XMB-Customize.md"** file there's a tutorial on how to customize your PS4 H
 If you have PS3, or PSVita then go check out these repositories! They have a full guide on how to do nearly everything on them covered about the PlayStation 3 and Vita homebrew. And how to jailbreak them or, to exploit them.
 
 - **[PS3 Guide](https://github.com/ZHassanQ/PS3-Guide)** contains a guide on how to install either HEN or, CFW on your PlayStation 3 and more.
-- **[PSVita Guide](https://github.com/ZHassanQ/PSVita-Guide)** contains a guide on how to install HENKaku, and how to make it permanent if your PSVita is compatible.
+- **[PSVita Guide](https://github.com/ZHassanQ/PSVita-Guide)** contains a guide on how to install HENKaku, and how to make it permanent if your PSVita is compatible and more.
