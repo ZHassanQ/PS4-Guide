@@ -106,10 +106,11 @@ This error will be likely because the BASE game only had offline mode then updat
 **In your Computer:**
 
 1. Launch **"Duxa's PS4 patch repackager"**
-2. Put your `Update.pkg/file/location` in **"Patch:"**
-3. Put your `Base.pkg/file/location` in **"Game:"**
-4. Select **"Force Scenario 0"**
-5. Click **"GO"** (It will Approximately take 20 Minutes)
+- You can download it **[here]()**.
+3. Put your `Update.pkg/file/location` in **"Patch:"**
+4. Put your `Base.pkg/file/location` in **"Game:"**
+5. Select **"Force Scenario 0"**
+6. Click **"GO"** (It will Approximately take 20 Minutes)
 
 ## Error #2 
 
