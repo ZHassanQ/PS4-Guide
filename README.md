@@ -56,9 +56,46 @@ This section contains a guide on how to install (Homebrew ENabler) on your PlayS
 This section is important for nearly everything, if you want to know how install PKG-files, or why they aren't installing. And how to modify or, patch them and more.
 
 ### Installation
+
+In **"PKG-Installation"** file there's a tutorial on how to install PKG files wether they were Game, Game Update, Game's DLC, Themes, Hombrew apps.
+
+🧭 Table of Contents
+1. 🧪 Integrity Check:
+    - **[Compatiblity to System](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md#compatibility-to-system)**
+    - **[Compatiblity to BASE](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md#compatiblity-to-base)**
+2. ⚙️ Installation
+    - **[Flash Drive](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md#flash-drive)**
+    - **[Internal Storage](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md#internal-storage)**
+    - **[Internet Connection](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md#internet-connection)**
+3. 🧰 Installation Errors
+    - **[Error #1](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md#error-1)**
+    - **[Error #2](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md#error-2)**
+
+
 ### Modify
+
+In **"PKG-Modify"** file there's a tutorial on how to modify PKG files with many things; with PS4-AIO app.
+
+🧭 Table of Contents
+
+1. 🗃️ Marry:
+    - **[Remarry](#%EF%B8%8F-1-remarry-game--update)**
+    - **[Merge](#%EF%B8%8F-2-5-merge-game--update--backport)**
+2. 🛠️ Backports:
+    - **[Backup](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-3-backup-backports-files)**
+    - **[Reverse](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-4--ps4-rebuild-pkg---backport)**
+3. 💊 DLCs:
+    - **[Region](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-7-dlc---change-region)**
+    - **[Unlock](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-8-ps4-dlc-unlocker)**
+    - **[Restore Data](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-9-without-data-dlc-to-data-dlc)**
+    - **[Remove Data](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-10-data-dlc-to-without-data-dlc)**
+4. 🧩 Others
+    - **[Fix Game Info](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-6-fix-game-info)**
+
+
 ### Patches
 
+Still working on it.
 
 ## User
 
@@ -66,12 +103,36 @@ This section is optional, if you want to know how to use your real `ACC_ID` so t
 
 ### PSN - Savedata
 
+In **"PSN-Savedata.md"** file, there's a tutorial on how to create an activated PSN either from real account or a fake ID. And how to install encrypted savedata that are not signed to your account, and more. All that using "Apollo Save Tools". If you haven't already installed it go to **[PKG-Installation.md](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md)** to see how to install PKG-files in many different ways, and what to do if an there are an errors.
+
+🧭 Table of Contents
+
+1. 🌍 PSN ID:
+    - **[Fake PSN ID](https://github.com/ZHassanQ/PS4-Guide/blob/main/PSN-Savedata.md#-fake-psn-id)**
+    - **[Real PSN ID](https://github.com/ZHassanQ/PS4-Guide/blob/main/PSN-Savedata.md#-real-psn-id)**
+2. 💾 Savedata:
+    - **[Encrypted](https://github.com/ZHassanQ/PS4-Guide/blob/main/PSN-Savedata.md#-encrypted)**
+    - **[Region Change](https://github.com/ZHassanQ/PS4-Guide/blob/main/PSN-Savedata.md#-region-change)**
+    - **[Retail](https://github.com/ZHassanQ/PS4-Guide/blob/main/PSN-Savedata.md#-fpkg-to-retail)**
 
 ## XMB
 
 This section is optional, if you want to see how you can customize your XMB by, changing games icons, and/or the main theme, music of your PlayStation 4 and more.
 
 ### Customize
+
+In **"XMB-Customize.md"** file there's a tutorial on how to customize your PS4 Home Screen with changing your Profile Picture, Login Intro, Main Music, Apps Icons, and Hiding Apps. Note that the methods i am explaing requires two apps, one can connect to FTP-Servers like **[FileZilla](https://filezilla-project.org/)**, and one can read database files like **[DB Browser for SQLite](https://sqlitebrowser.org/)**.
+
+🧭 Table of Contents
+
+1. 🌍 **[Apps:](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#-apps)**
+    - [Icons](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#icons)
+    - [Hide, Show](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#hide-show)
+2. 🎼 **[Music:](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#-music)**
+    - [Login Music](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#login-music)
+    - [Main Music](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#main-music)
+3. 🧩 [Others:](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#-others)
+    - [Profile Picture](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#profile-picture)
 
 
 # Other Guides
