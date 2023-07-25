@@ -43,11 +43,11 @@ This section contains a guide on how to install (Homebrew ENabler) on your PlayS
         - [Entering the Website](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#entering-the-website)
 3. **[9.00 Magic USB Setup](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup)**
     - [Setup](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#setup)
-       - [Image-file](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#image-file)
-       - [The Magic Drive](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#the-magic-drive)
+      - [Image-file](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#image-file)
+      - [The Magic Drive](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#the-magic-drive)
         - [Injecting the exploit](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#injecting-the-exploit)
         - [Reset "System Volume Information"](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#reset-system-volume-information)
-       - [Resetting the whole drive](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#resetting-the-whole-drive) 
+      - [Resetting the whole drive](https://github.com/ZHassanQ/PS4-Guide/wiki/3.-9.00-Magic-USB-Setup#resetting-the-whole-drive) 
 4. **[GoldHEN](https://github.com/ZHassanQ/PS4-Guide/wiki/4.-GoldHEN)**
     - [Inject Exploits](https://github.com/ZHassanQ/PS4-Guide/wiki/4.-GoldHEN#injecting-the-exploit)
       - [Notes](https://github.com/ZHassanQ/PS4-Guide/wiki/4.-GoldHEN#notes)
