@@ -15,7 +15,7 @@ In this file **"PKG-Installation"** there's a tutorial on how to install PKG fil
 
 # 🧪 Integrity Check
 
-Before installing any PKG file on your PlayStation 4 first open it with **[PS4PKGViewer]()** to see if it's matches with your PlayStation 4 System, BASE, Update, and DLC.
+Before installing any PKG file on your PlayStation 4 first open it with **[PS4PKGViewer](https://github.com/ZHassanQ/PS4-Guide/releases/download/Computer/PS4PKGViewer.v1.5-LMAN.zip)** to see if it's matches with your PlayStation 4 System, BASE, Update, and DLC.
 
 ## Compatibility to System
 
@@ -87,7 +87,7 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 
 **In your PlayStation 4:**
 
-5. Launch **[Internal PKG Installer]()** app.
+5. Launch **[Internal PKG Installer](https://github.com/ZHassanQ/PS4-Guide/releases/download/PKG/IV0000-BREW00050_00-IPI0000000000000.pkg)** app.
 - It should exit in a seconds then it will start installing.
 
 ## Internet Connection
@@ -106,7 +106,7 @@ This error will be likely because the BASE game only had offline mode then updat
 **In your Computer:**
 
 1. Launch **"Duxa's PS4 patch repackager"**
-- You can download it **[here]()**.
+- You can download it **[here](https://github.com/ZHassanQ/PS4-Guide/releases/download/Computer/Duxas.PS4.patch.repackager.7.2.18.zip)**.
 3. Put your `Update.pkg/file/location` in **"Patch:"**
 4. Put your `Base.pkg/file/location` in **"Game:"**
 5. Select **"Force Scenario 0"**
@@ -114,4 +114,4 @@ This error will be likely because the BASE game only had offline mode then updat
 
 ## Error #2 
 
-This error may pop-up because you downloaded from two different sources. So they weren't from the same console or disk and etc. To fix it see this **[Section]()** from **[PKG-Modify.md]()** file.
+This error may pop-up because you downloaded from two different sources. So they weren't from the same console or disk and etc. To fix it see this **[Section](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-1-remarry-game--update)** from **[PKG-Modify.md](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md)** file.
