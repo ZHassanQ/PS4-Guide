@@ -94,8 +94,8 @@ To change the intro (login) music of your PlayStation 4, do the following:
 4. Rename `bgm_login.at9` to `bgm_login.at91`
 - It will be original backup.
 - If you want it back just rename it back.
-5. Select any Music you want and convert it to **".at9"** by **“AT9-AT3-converter"** app.
-
+5. Download any Music you want and convert it to **".at9"**.
+- I recommend **[AT9-AT3 Converter](https://github.com/ZHassanQ/PS4-Guide/releases/download/Computer/AT9.AT3.Converter.V2.3.zip)** app.
  
 ## Main Music
 
@@ -117,7 +117,7 @@ To change the main music (theme) of your PlayStation 4, do the following:
 - It will be original backup.
 - If you want it back just rename it back.
 5. Download any Music you want and convert it to **".at9"**.
-- I recommend **[]()** app.
+- I recommend **[AT9-AT3 Converter](https://github.com/ZHassanQ/PS4-Guide/releases/download/Computer/AT9.AT3.Converter.V2.3.zip)** app.
 
 # 🧩 Others
 ## Profile Picture
