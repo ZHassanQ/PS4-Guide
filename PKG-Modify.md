@@ -17,6 +17,11 @@ In this file **"PKG-Modify"** there's a tutorial on how to modify PKG files with
     - **[Fix Game Info](#-6-fix-game-info)**
 
 
+# PS4 All-In-One
+
+Launch the app and if it ask for temp folder, select yes.
+
+Through the page each number of the title means the option you choose in the app.
 # Marry
 ## 🗃️ 1. Remarry Game + Update
 
