@@ -44,32 +44,7 @@ If you want to change the way your PSN apps, games icons looks like, do the foll
 
 If you want to hide some PSN apps that can't be deleted, you can hide them by:
 
-**In your PS4:**
-
-1. Go to **"GoldHEN"** Settings.
-2. Go to **"Server Settings"** and check **"Enable FTP Server"**
-
----
-
-**In your Computer:**
-
-1. Run your FTP Client.
-2. Connect to your PS4.
-3. Go to `system_data/priv/mms` folder.
-4. Copy **“app.db”** two times.
-- The other one is for backup.
-
----
-
-5. Run any app that can read databaes files.
-- I am using DB Browser for SQLite app.
-7. Choose **"app.db"**
-8. Click **"Browse Data"**
-9. Select the Table `tbl_appbrowse_0413713369`
-10. Scroll to the right side until you see **"visible"** Cell
-- If the filter is **"0"** it means hidden.
-- If the filter is **"1"** it means visible.
-10. Save it and replace it to your PS4 in `system_data\priv\mms`
+Now made easier by "PS4 Toolset" app. Basically download and install this **[PKG-file]()** to your PS4.
 
 
 # 🎼 Music
