@@ -10,6 +10,7 @@ In this file **"XMB-Customize.md"** there's a tutorial on how to customize your 
     - [Main Music](#main-music)
 3. 🧩 [Others:](#-others)
     - [Profile Picture](#profile-picture)
+    - [Shortcuts](#shortcuts)
 
 
 # 🌍 Apps
@@ -125,3 +126,11 @@ To change the main music (theme) of your PlayStation 4, do the following:
 If you want to replace your profile picture, then you need to have a `512x512` picture. And then copy it to your PS4 in any directory. (Preferably `data\PS4Xplorer`) After that launch PS4Xplorer and go to your picture and set it as a profile picture.
 
 - If you haven't already installed it go to **[PKG-Installation.md](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Installation.md)** to see how to install PKG-files in many different ways, and what to do if an there are an errors.
+
+
+## Shortcuts
+
+If you want a fast shortcuts to Debug Settings, activating GoldHEN (ESP version is also included), storage, and more! In your notifications then install this **[PKG-file]()**.
+
+- Note: You need to launch a payload for the notifications to work, I suggest "Payload Guest" app.
+    - When you install the notifications shortcuts, it will install a payload that can be immediately launched.
