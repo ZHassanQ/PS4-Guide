@@ -134,6 +134,7 @@ In **"XMB-Customize.md"** file there's a tutorial on how to customize your PS4 H
     - [Main Music](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#main-music)
 3. 🧩 [Others:](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#-others)
     - [Profile Picture](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#profile-picture)
+    - [Shortcuts](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#shortcuts) 
 
 
 # Other Guides
