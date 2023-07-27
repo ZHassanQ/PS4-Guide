@@ -88,9 +88,6 @@ If you have DLC unlockers without data which need to be installed with USB metho
 
 If you install a merged PKG (BASE+Update) on your PlayStation 4, then it will reads it as a 1.00 version and to fix it:
 
-**In your Computer:**
-
-1. Launch **"PS4-AIO"** app.
-2. Put **"MERGED.pkg"** in `GAME` folder.
-3. And you will get small PKG update **"Dummy_Update.pkg"** around 5-10MB in `PS4-AIO` folder.
-4. Install it. 
+1. Put **"MERGED.pkg"** in `GAME` folder.
+2. And you will get small PKG update **"Dummy_Update.pkg"** around 5-10MB in `PS4-AIO` folder.
+3. Install it. 
