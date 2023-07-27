@@ -7,7 +7,6 @@ In this file **"PKG-Installation"** there's a tutorial on how to install PKG fil
 2. ⚙️ Installation
     - **[Flash Drive](#flash-drive)**
     - **[Internal Storage](#internal-storage)**
-    - **[Internet Connection](#internet-connection)**
 3. 🧰 Installation Errors
     - **[Error #1](#error-1)**
     - **[Error #2](#error-2)**
@@ -56,16 +55,16 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 
 **In your Computer:**
 
-1. Format your HDD, or your Flash Drive to  **exFAT** filesystem it it's greater than 4GB. Else format it to **FAT32**.
-2. Then put the PKG files in the root of your HDD, or your Flash Drive.
+- Your USB Flash Drive need to be on exfat or FAT32 format.
+1. Then put the PKG files in the root of your HDD, or your Flash Drive.
 
 ---
 
 **In your PlayStation 4:**
 
-3. Connect your USB Flash Drive to your PS4.
-4. Go to **"Settings"** --> **"Debug Settings"** --> **"Package Installer"**
-5. Select your PKG file.
+2. Connect your USB Flash Drive to your PS4.
+3. Go to **"Settings"** --> **"Debug Settings"** --> **"Package Installer"**
+4. Select your PKG file.
 - If you have many PKG files then, install BASE then, Update, then DLC's.
 
 
@@ -89,11 +88,6 @@ Now that you checked the integrity and if the PKG file info matched with your Sy
 
 5. Launch **[Internal PKG Installer](https://github.com/ZHassanQ/PS4-Guide/releases/download/PKG/IV0000-BREW00050_00-IPI0000000000000.pkg)** app.
 - It should exit in a seconds then it will start installing.
-
-## Internet Connection
-
-
-
 
 # 🧰 Installation Errors
 
