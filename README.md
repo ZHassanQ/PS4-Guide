@@ -96,7 +96,11 @@ In **"PKG-Modify"** file there's a tutorial on how to modify PKG files with many
 
 ### Patches
 
-Still working on it.
+🧭 Table of Contents
+- **[Cheats and Modifications](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#cheats-and-modifications)
+    - [GoldHEN Cheats Manager](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#goldhen-cheats-manager)
+- **[Storage (Removing Assets)](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#storage-removing-assets)**
+    - [PKG-Ripper](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#pkg-ripper)
 
 ## User
 
