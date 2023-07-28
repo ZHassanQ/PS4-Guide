@@ -1,8 +1,8 @@
-In this file "PKG-Patches.md" there will more things you can do with your PKG games.
+In this file "PKG-Patches.md" there will more things you can do with your PKG games. Like cheat and modify ingame values, or removing assets to save some space.
  
 🧭 Table of Contents
-- **[Cheats and Modifications](#cheats-and-modifications)
-    - [GoldHEN Cheats Manager](goldhen-cheats-manager)
+- **[Cheats and Modifications](#cheats-and-modifications)**
+    - [GoldHEN Cheats Manager](#goldhen-cheats-manager)
 - **[Storage (Removing Assets)](#storage-removing-assets)**
     - [PKG-Ripper](#pkg-ripper)
 
