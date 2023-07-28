@@ -96,6 +96,9 @@ In **"PKG-Modify"** file there's a tutorial on how to modify PKG files with many
 
 ### Patches
 
+In file "PKG-Patches.md" file there will more things you can do with your PKG games. Like cheat and modify ingame values, or removing assets to save some space.
+
+
 🧭 Table of Contents
 - **[Cheats and Modifications](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#cheats-and-modifications)
     - [GoldHEN Cheats Manager](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#goldhen-cheats-manager)
