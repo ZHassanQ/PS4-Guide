@@ -44,7 +44,7 @@ If you want to change the way your PSN apps, games icons looks like, do the foll
 
 If you want to hide some PSN apps that can't be deleted, you can hide them by:
 
-Now made easier by "PS4 Toolset" app. Basically download and install this **[PKG-file]()** to your PS4.
+Now made easier by "Itemzflow Game Manager" app. Just go to the app you want to hide/show and choose "App Visiblity".
 
 
 # 🎼 Music
