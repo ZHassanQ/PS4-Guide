@@ -21,6 +21,7 @@ As this repository almost covers everything you can do with your PlayStation 4, 
 
 1. **[HEN Wiki](#hen-wiki)**
 2. **[PKG-files](#pkg-files)**
+3. **[HEN-Plugins](#goldhen-plugins)**
 - **[User - PSN, Savedata](#user)**
 - **[XMB - Customize](#xmb)**
 
@@ -104,6 +105,31 @@ In file "PKG-Patches.md" file there will more things you can do with your PKG ga
     - [GoldHEN Cheats Manager](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#goldhen-cheats-manager)
 - **[Storage (Removing Assets)](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#storage-removing-assets)**
     - [PKG-Ripper](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Patches#pkg-ripper)
+
+
+## GoldHEN Plugins
+
+I highly recommend using [GoldHEN Plugins](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) as they have many customizable and important features, and i will list some of them:
+
+- **[Swap Buttons:](https://github.com/GoldHEN/GoldHEN_Plugins_Repository#button-swap)** Swap X and O buttons.
+- **[Force 1080p:](https://github.com/GoldHEN/GoldHEN_Plugins_Repository#force-1080p-display)** Forces 1080p display.
+- **[Force 30Fps:](https://github.com/GoldHEN/GoldHEN_Plugins_Repository#force-30-fps)** Limits to 30Fps.
+- **[Fliprate Remover:](https://github.com/GoldHEN/GoldHEN_Plugins_Repository#fliprate-remover)** Removes the framerate limit if used by the game.
+- **[No Share Blocks](https://github.com/GoldHEN/GoldHEN_Plugins_Repository#no-share-blocks)** Removes image watermark video and screenshot blocks from games.
+- **[GamePad Helper](https://github.com/GoldHEN/GoldHEN_Plugins_Repository?tab=readme-ov-file#gamepad-helper-plugin)** Customize deadzone, touchpad, button mapping, and viration intensity.
+
+    - To install any of them, follow these [simple steps.](https://github.com/GoldHEN/GoldHEN_Plugins_Repository?tab=readme-ov-file#quick-start)
+    - You can see the plugins sources [here.](https://github.com/GoldHEN/GoldHEN_Plugins_Repository/tree/main/plugin_src)
+
+### GoldHEN Cheats Manager
+
+Patches your games in many different ways, and you too can create patches. Visit this link if you want to see [how to.](https://github.com/GoldHEN/GoldHEN_Patch_Repository#developing-patches) To use or install any of them use the app (GoldHEN Cheats Manager) or Itemzflow Game Manager.
+
+Mostly the patches are:
+
+- Lowering resolution for more framerate or vice versa.
+- Godmode and etc.
+- Debug Menu.
 
 ## User
 
