@@ -24,6 +24,7 @@ As this repository almost covers everything you can do with your PlayStation 4, 
 3. **[HEN-Plugins](#goldhen-plugins)**
 - **[User - PSN, Savedata](#user)**
 - **[XMB - Customize](#xmb)**
+- **[Others](#others)**
 
 
 ## HEN Wiki
@@ -168,6 +169,15 @@ In **"XMB-Customize.md"** file there's a tutorial on how to customize your PS4 H
 3. 🧩 [Others:](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#-others)
     - [Profile Picture](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#profile-picture)
     - [Shortcuts](https://github.com/ZHassanQ/PS4-Guide/blob/main/XMB-Customize.md#shortcuts) 
+
+
+## Others
+
+Here i will list some other useful things that aren't mentioned in the guide.
+
+- **[Chiaki](https://sr.ht/~thestr4ng3r/chiaki/#chiaki)** Free and Open Source PlayStation Remote Play Client.
+- **[ESP32-S](https://youtu.be/Cllj6yDha6o)** (9.00) A youtube video demonstrates on how to setup ESP32-S which is really useful. It jailbreaks the PS4 without the need to plug/unplug anything.
+- **[Revert Firmware](https://youtu.be/JxeSP1PJtEs)** (Requires Soldering) A youtube video demonstrates on how to revert to a previous firmware.
 
 
 # Other Guides
