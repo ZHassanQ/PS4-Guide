@@ -156,7 +156,7 @@ This section is optional, if you want to see how you can customize your XMB by, 
 
 ### Customize
 
-In **"XMB-Customize.md"** file there's a tutorial on how to customize your PS4 Home Screen with changing your Profile Picture, Login Intro, Main Music, Apps Icons, and Hiding Apps. Note that the methods i am explaing requires two apps, one can connect to FTP-Servers like **[FileZilla](https://filezilla-project.org/)**, and one can read database files like **[DB Browser for SQLite](https://sqlitebrowser.org/)**.
+In **"XMB-Customize.md"** file there's a tutorial on how to customize your PS4 Home Screen with changing your Profile Picture, Login Intro, Main Music, Apps Icons, and Hiding Apps.
 
 🧭 Table of Contents
 
