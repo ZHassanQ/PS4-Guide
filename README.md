@@ -38,7 +38,7 @@ This section contains a guide on how to install (Homebrew ENabler) on your PlayS
       - [What to Choose?](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing#what-to-choose)
     - [Compatibility](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing#compatibility)
       - [Settings](https://github.com/ZHassanQ/PS4-Guide/wiki/1.-Preparing#settings)
-2. **[Self Host](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host))**
+2. **[Self Host](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host)**
     - [Websites](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#websites)
       - [Online](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#online)
       - [Offline, Self Host](https://github.com/ZHassanQ/PS4-Guide/wiki/2.-Websites,-Host#offline-self-host)
