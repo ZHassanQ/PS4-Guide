@@ -77,23 +77,34 @@ In **"PKG-Installation"** file there's a tutorial on how to install PKG files we
 
 ### Modify
 
-In **"PKG-Modify"** file there's a tutorial on how to modify PKG files with many things; with PS4-AIO app.
+With **[PS4-Tools](https://github.com/ZHassanQ/PS4-Guide/releases/download/Computer/PS4.Tools.v41.rar)** you can do many things with it, visit this [page](https://www.psxhax.com/threads/ps4-tools-context-menu-for-1-click-ps4-pkg-operations-by-jation.13403/) to see more information.
 
-🧭 Table of Contents
+List of what it can do:
 
-1. 🗃️ Marry:
-    - **[Remarry](#%EF%B8%8F-1-remarry-game--update)**
-    - **[Merge](#%EF%B8%8F-2-5-merge-game--update--backport)**
-2. 🛠️ Backports:
-    - **[Backup](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-3-backup-backports-files)**
-    - **[Reverse](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#%EF%B8%8F-4--ps4-rebuild-pkg---backport)**
-3. 💊 DLCs:
-    - **[Region](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-7-dlc---change-region)**
-    - **[Unlock](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-8-ps4-dlc-unlocker)**
-    - **[Restore Data](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-9-without-data-dlc-to-data-dlc)**
-    - **[Remove Data](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-10-data-dlc-to-without-data-dlc)**
-4. 🧩 Others
-    - **[Fix Game Info](https://github.com/ZHassanQ/PS4-Guide/blob/main/PKG-Modify.md#-6-fix-game-info)**
+- **Shows PKG info**
+    - Like PS4PKGViewer.
+- **Remarry files**
+    - If for example: You can't install the update for your game even though they have the same ID, it fixes it.
+
+- **Merge BASE + Update**
+    - With this new tool, no need to fix info afterward 'Remaster'.
+- **Merge PKG parts**
+    - If you splitted your PKG-files, you can merge them with this.
+
+- **Extract Full PKG**
+    - Extract all of your PKG contents.
+- **Extract Important**
+    - Will extract: eboot.bin icon0.png npbind.dat nptitle.dat param.sfo trophy00.trp
+- **Extract File-type**
+    - Extracts from your PKG-file your input, eg. .bin
+- **Extract eboot.bin**
+    - The file that's responsible of booting the game.
+- **Extract param.sfo**
+    - The file that's contains the info of your PKG-file. (Recommended with PARAM.SFO EDITOR)
+- **Extract trophy00.trp**
+    - The file that's contains the game's trophies.
+- **Extract Icon0.png**
+    - The game's icon.
 
 
 ### Patches
